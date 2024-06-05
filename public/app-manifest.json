@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "http://localhost:8081/bundle.js",
+    "logo.svg": "http://localhost:8081/deb4b50403801f3a821b.svg",
+    "./index.html": "http://localhost:8081/./index.html",
+    "favicon.ico": "http://localhost:8081/favicon.ico"
+  },
+  "entrypoints": [
+    "bundle.js"
+  ]
+}
